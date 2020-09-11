@@ -17,3 +17,7 @@ div {
 #orange { /* this selects any elements with the red id */
   border-top-color: #ffa500;
 }
+
+#yello { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
